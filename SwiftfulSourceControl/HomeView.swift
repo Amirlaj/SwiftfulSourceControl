@@ -13,7 +13,12 @@ struct HomeView: View {
             Text("screen 2")
             Text("screen 2")
             Text("screen 2")
-                
+        }
+            
+        VStack{
+            Text("screen 2")
+            Text("screen 2")
+            Text("screen 2")
         }
     }
 }
